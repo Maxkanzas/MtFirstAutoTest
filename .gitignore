@@ -1,7 +1,7 @@
 HELP.md
 build/
 !**/src/main/**
-!**/src/test/**
+!**/src/testBox/**
 
 ### IntelliJ IDEA ###
 .idea
